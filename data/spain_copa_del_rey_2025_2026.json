@@ -7641,7 +7641,7 @@
     "lineupsUrl": "https://www.flashscore.com/match/football/ath-bilbao-IP5zl0cJ/leonesa-O6FowKBc/summary/lineups/?mid=tdmQBfHL",
     "stage": "1/8-FINALS",
     "date": "13.01.2026 21:00",
-    "status": "AFTER EXTRA TIME",
+    "status": "NOT STARTED",
     "home": {
       "name": "Cultural Leonesa",
       "image": "https://static.flashscore.com/res/image/data/UNSRimZg-WAOkzK99.png"
@@ -7650,29 +7650,8 @@
       "name": "Ath Bilbao",
       "image": "https://static.flashscore.com/res/image/data/Y7CgBGYg-vJb36ZBF.png"
     },
-    "result": {
-      "home": "3",
-      "away": "4",
-      "regulationTime": "3-3"
-    },
-    "information": [
-      {
-        "category": "Referee",
-        "value": "Hernandez A. (Esp)"
-      },
-      {
-        "category": "Venue",
-        "value": "Estadio Reino de León (León)"
-      },
-      {
-        "category": "Capacity",
-        "value": "13 451"
-      },
-      {
-        "category": "Attendance",
-        "value": "11 004"
-      }
-    ],
+    "result": {},
+    "information": [],
     "statistics": [],
     "lineups": {
       "home": {
@@ -10266,7 +10245,7 @@
     "lineupsUrl": "https://www.flashscore.com/match/football/osasuna-ETdxjU8a/real-sociedad-jNvak2f3/summary/lineups/?mid=viVC2jv8",
     "stage": "1/8-FINALS",
     "date": "13.01.2026 21:00",
-    "status": "AFTER PENALTIES",
+    "status": "NOT STARTED",
     "home": {
       "name": "Real Sociedad",
       "image": "https://static.flashscore.com/res/image/data/QJraUAcM-vJb36ZBF.png"
@@ -10275,30 +10254,8 @@
       "name": "Osasuna",
       "image": "https://static.flashscore.com/res/image/data/84LOczeM-Yu8w588N.png"
     },
-    "result": {
-      "home": "3",
-      "away": "2",
-      "regulationTime": "2-2",
-      "penalties": "4-3"
-    },
-    "information": [
-      {
-        "category": "Referee",
-        "value": "Soto Grado C. (Esp)"
-      },
-      {
-        "category": "Venue",
-        "value": "Reale Arena (San Sebastian)"
-      },
-      {
-        "category": "Capacity",
-        "value": "40 000"
-      },
-      {
-        "category": "Attendance",
-        "value": "30 147"
-      }
-    ],
+    "result": {},
+    "information": [],
     "statistics": [],
     "lineups": {
       "home": {
@@ -12995,7 +12952,16 @@
       "away": "1",
       "regulationTime": "0-0"
     },
-    "information": [],
+    "information": [
+      {
+        "category": "Referee",
+        "value": "Munuera J. (Esp)"
+      },
+      {
+        "category": "Venue",
+        "value": "Estadio de O Couto (Ourense)"
+      }
+    ],
     "statistics": [],
     "lineups": {
       "home": {
@@ -14657,7 +14623,7 @@
     "lineupsUrl": "https://www.flashscore.com/match/football/albacete-UirAofN6/celta-vigo-8pvUZFhf/summary/lineups/?mid=U1eJgh7D",
     "stage": "1/16-FINALS",
     "date": "17.12.2025 19:00",
-    "status": "NOT STARTED",
+    "status": "AFTER PENALTIES",
     "home": {
       "name": "Albacete",
       "image": "https://static.flashscore.com/res/image/data/M9tNPVfM-4297a0ys.png"
@@ -14666,8 +14632,30 @@
       "name": "Celta Vigo",
       "image": "https://static.flashscore.com/res/image/data/O2htOWDa-SOY3p1Si.png"
     },
-    "result": {},
-    "information": [],
+    "result": {
+      "home": "3",
+      "away": "2",
+      "regulationTime": "2-2",
+      "penalties": "3-0"
+    },
+    "information": [
+      {
+        "category": "Referee",
+        "value": "Guzman J. (Esp)"
+      },
+      {
+        "category": "Venue",
+        "value": "Estadio Carlos Belmonte (Albacete)"
+      },
+      {
+        "category": "Capacity",
+        "value": "17 524"
+      },
+      {
+        "category": "Attendance",
+        "value": "12 106"
+      }
+    ],
     "statistics": [],
     "lineups": {
       "home": {
@@ -17278,7 +17266,7 @@
   "Mer5HeaK": {
     "matchId": "Mer5HeaK",
     "sourceUrl": "https://www.flashscore.com/match/football/burgos-cf-vTxTEFi6/getafe-dboeiWOt/?mid=Mer5HeaK",
-    "statsUrl": "https://www.flashscore.com/match/football/burgos-cf-vTxTEFi6/getafe-dboeiWOt/summary/stats/0/?mid=Mer5HeaK",
+    "statsUrl": "https://www.flashscore.com/match/football/burgos-cf-vTxTEFi6/getafe-dboeiWOt/summary/stats/overall/?mid=Mer5HeaK",
     "lineupsUrl": "https://www.flashscore.com/match/football/burgos-cf-vTxTEFi6/getafe-dboeiWOt/summary/lineups/?mid=Mer5HeaK",
     "stage": "1/16-FINALS",
     "date": "18.12.2025 19:00",
@@ -17295,25 +17283,204 @@
       "home": "3",
       "away": "1"
     },
-    "information": [
+    "information": [],
+    "statistics": [
       {
-        "category": "Referee",
-        "value": "De Burgos R. (Esp)"
+        "category": "Expected goals (xG)",
+        "homeValue": "2.03",
+        "awayValue": "1.09"
       },
       {
-        "category": "Venue",
-        "value": "Estadio El Plantío (Burgos)"
+        "category": "Ball possession",
+        "homeValue": "40%",
+        "awayValue": "60%"
       },
       {
-        "category": "Capacity",
-        "value": "12 194"
+        "category": "Total shots",
+        "homeValue": "7",
+        "awayValue": "11"
       },
       {
-        "category": "Attendance",
-        "value": "7 987"
+        "category": "Shots on target",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "category": "Big chances",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "category": "Corner kicks",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "category": "Passes",
+        "homeValue": "76%\n(225/298)",
+        "awayValue": "81%\n(349/430)"
+      },
+      {
+        "category": "Yellow cards",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "category": "Expected goals (xG)",
+        "homeValue": "2.03",
+        "awayValue": "1.09"
+      },
+      {
+        "category": "xG on target (xGOT)",
+        "homeValue": "2.66",
+        "awayValue": "0.66"
+      },
+      {
+        "category": "Total shots",
+        "homeValue": "7",
+        "awayValue": "11"
+      },
+      {
+        "category": "Shots on target",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "category": "Shots off target",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "category": "Blocked shots",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "category": "Shots inside the box",
+        "homeValue": "7",
+        "awayValue": "7"
+      },
+      {
+        "category": "Shots outside the box",
+        "homeValue": "0",
+        "awayValue": "4"
+      },
+      {
+        "category": "Hit the woodwork",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "category": "Big chances",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "category": "Corner kicks",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "category": "Touches in opposition box",
+        "homeValue": "10",
+        "awayValue": "19"
+      },
+      {
+        "category": "Accurate through passes",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "category": "Offsides",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "category": "Free kicks",
+        "homeValue": "15",
+        "awayValue": "17"
+      },
+      {
+        "category": "Passes",
+        "homeValue": "76%\n(225/298)",
+        "awayValue": "81%\n(349/430)"
+      },
+      {
+        "category": "Long passes",
+        "homeValue": "51%\n(27/53)",
+        "awayValue": "48%\n(23/48)"
+      },
+      {
+        "category": "Passes in final third",
+        "homeValue": "55%\n(35/64)",
+        "awayValue": "68%\n(82/120)"
+      },
+      {
+        "category": "Crosses",
+        "homeValue": "9%\n(1/11)",
+        "awayValue": "15%\n(4/27)"
+      },
+      {
+        "category": "Expected assists (xA)",
+        "homeValue": "0.24",
+        "awayValue": "0.72"
+      },
+      {
+        "category": "Throw ins",
+        "homeValue": "22",
+        "awayValue": "39"
+      },
+      {
+        "category": "Fouls",
+        "homeValue": "17",
+        "awayValue": "15"
+      },
+      {
+        "category": "Tackles",
+        "homeValue": "53%\n(8/15)",
+        "awayValue": "35%\n(7/20)"
+      },
+      {
+        "category": "Duels won",
+        "homeValue": "40",
+        "awayValue": "53"
+      },
+      {
+        "category": "Clearances",
+        "homeValue": "32",
+        "awayValue": "8"
+      },
+      {
+        "category": "Interceptions",
+        "homeValue": "14",
+        "awayValue": "6"
+      },
+      {
+        "category": "Errors leading to shot",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "category": "Errors leading to goal",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "category": "Goalkeeper saves",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "category": "xGOT faced",
+        "homeValue": "0.66",
+        "awayValue": "2.66"
+      },
+      {
+        "category": "Goals prevented",
+        "homeValue": "-0.34",
+        "awayValue": "-0.34"
       }
     ],
-    "statistics": [],
     "lineups": {
       "home": {
         "starting": [
@@ -27073,7 +27240,7 @@
     "lineupsUrl": "https://www.flashscore.com/match/football/fc-cartagena-sad-IJyXDZ6C/valencia-CQeaytrD/summary/lineups/?mid=GMgRHlrI",
     "stage": "1/32-FINALS",
     "date": "04.12.2025 21:00",
-    "status": "NOT STARTED",
+    "status": "AFTER EXTRA TIME",
     "home": {
       "name": "FC Cartagena SAD",
       "image": "https://static.flashscore.com/res/image/data/EeqU2NCr-ht99hStl.png"
@@ -27082,8 +27249,29 @@
       "name": "Valencia",
       "image": "https://static.flashscore.com/res/image/data/Ioshoye5-MHrRLNUo.png"
     },
-    "result": {},
-    "information": [],
+    "result": {
+      "home": "1",
+      "away": "2",
+      "regulationTime": "1-1"
+    },
+    "information": [
+      {
+        "category": "Referee",
+        "value": "Diaz I. (Esp)"
+      },
+      {
+        "category": "Venue",
+        "value": "Estadio Municipal Cartagonova (Cartagena)"
+      },
+      {
+        "category": "Capacity",
+        "value": "13 745"
+      },
+      {
+        "category": "Attendance",
+        "value": "6 606"
+      }
+    ],
     "statistics": [],
     "lineups": {
       "home": {
@@ -28700,7 +28888,7 @@
     "lineupsUrl": "https://www.flashscore.com/match/football/burgos-cf-vTxTEFi6/zaragoza-za7D2lO5/summary/lineups/?mid=EerZjLw2",
     "stage": "1/32-FINALS",
     "date": "04.12.2025 21:00",
-    "status": "NOT STARTED",
+    "status": "AFTER EXTRA TIME",
     "home": {
       "name": "Zaragoza",
       "image": "https://static.flashscore.com/res/image/data/xAVdihZA-EykfZB0Q.png"
@@ -28709,8 +28897,29 @@
       "name": "Burgos CF",
       "image": "https://static.flashscore.com/res/image/data/0AalHeAr-0ME49KyM.png"
     },
-    "result": {},
-    "information": [],
+    "result": {
+      "home": "0",
+      "away": "1",
+      "regulationTime": "0-0"
+    },
+    "information": [
+      {
+        "category": "Referee",
+        "value": "Etayo G. (Esp)"
+      },
+      {
+        "category": "Venue",
+        "value": "Ibercaja Stadium (Zaragoza)"
+      },
+      {
+        "category": "Capacity",
+        "value": "20 000"
+      },
+      {
+        "category": "Attendance",
+        "value": "7 051"
+      }
+    ],
     "statistics": [],
     "lineups": {
       "home": {
@@ -40516,7 +40725,24 @@
       "away": "3",
       "regulationTime": "2-2"
     },
-    "information": [],
+    "information": [
+      {
+        "category": "Referee",
+        "value": "Ortiz M. (Esp)"
+      },
+      {
+        "category": "Venue",
+        "value": "Estadio Municipal Mariano Gonzalez (Navalcarnero)"
+      },
+      {
+        "category": "Capacity",
+        "value": "2 500"
+      },
+      {
+        "category": "Attendance",
+        "value": "1 500"
+      }
+    ],
     "statistics": [],
     "lineups": {
       "home": {
