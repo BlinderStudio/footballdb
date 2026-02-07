@@ -7641,7 +7641,7 @@
     "lineupsUrl": "https://www.flashscore.com/match/football/ath-bilbao-IP5zl0cJ/leonesa-O6FowKBc/summary/lineups/?mid=tdmQBfHL",
     "stage": "1/8-FINALS",
     "date": "13.01.2026 21:00",
-    "status": "NOT STARTED",
+    "status": "AFTER EXTRA TIME",
     "home": {
       "name": "Cultural Leonesa",
       "image": "https://static.flashscore.com/res/image/data/UNSRimZg-WAOkzK99.png"
@@ -7650,8 +7650,29 @@
       "name": "Ath Bilbao",
       "image": "https://static.flashscore.com/res/image/data/Y7CgBGYg-vJb36ZBF.png"
     },
-    "result": {},
-    "information": [],
+    "result": {
+      "home": "3",
+      "away": "4",
+      "regulationTime": "3-3"
+    },
+    "information": [
+      {
+        "category": "Referee",
+        "value": "Hernandez A. (Esp)"
+      },
+      {
+        "category": "Venue",
+        "value": "Estadio Reino de León (León)"
+      },
+      {
+        "category": "Capacity",
+        "value": "13 451"
+      },
+      {
+        "category": "Attendance",
+        "value": "11 004"
+      }
+    ],
     "statistics": [],
     "lineups": {
       "home": {
@@ -18204,7 +18225,24 @@
       "away": "4",
       "regulationTime": "1-1"
     },
-    "information": [],
+    "information": [
+      {
+        "category": "Referee",
+        "value": "Garcia V. (Esp)"
+      },
+      {
+        "category": "Venue",
+        "value": "Estadio El Alcoraz (Huesca)"
+      },
+      {
+        "category": "Capacity",
+        "value": "9 100"
+      },
+      {
+        "category": "Attendance",
+        "value": "6 413"
+      }
+    ],
     "statistics": [],
     "lineups": {
       "home": {
@@ -28902,24 +28940,7 @@
       "away": "1",
       "regulationTime": "0-0"
     },
-    "information": [
-      {
-        "category": "Referee",
-        "value": "Etayo G. (Esp)"
-      },
-      {
-        "category": "Venue",
-        "value": "Ibercaja Stadium (Zaragoza)"
-      },
-      {
-        "category": "Capacity",
-        "value": "20 000"
-      },
-      {
-        "category": "Attendance",
-        "value": "7 051"
-      }
-    ],
+    "information": [],
     "statistics": [],
     "lineups": {
       "home": {
